@@ -9,4 +9,4 @@ To execute the program, follow the below steps:
 6. Choose option 1 to encrypt a secret or option 2 to decrypt a secret. 
 Note: You have to follow step 5 and 6 everytime you want to encrypt or decrypt the secret message
 7. If you choose option 1 for encryption, input the plaintext and the password to store the secret securely. The output will be a ciphertext, which you should store for retrieval of the plaintext in the future.
-4. If you choose option 2 for decryption, input the ciphertext and the password used during encryption. The output will be your original secret.
+8. If you choose option 2 for decryption, input the ciphertext and the password used during encryption. The output will be your original secret.
